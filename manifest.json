@@ -1,0 +1,13 @@
+{
+    "name": "Calculator",
+    "version": "1.0",
+    "description": "Build an Extension!",
+    "author": "Arjun K S",
+    "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+
+	 "browser_action": {
+   "default_icon": "icon.png",
+   "default_popup": "popup.html"
+  },
+    "manifest_version": 2
+}
